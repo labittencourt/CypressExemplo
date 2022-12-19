@@ -15,4 +15,4 @@
 
 ## Access the demo report
 
-1. To view the test report, access the link: 
+1. To view the test report, access the link: n/a
