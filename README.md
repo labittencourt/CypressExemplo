@@ -1,6 +1,6 @@
 ## 🚀 Install the project
 
-1. Clone the repository: 
+1. Clone the repository: https://github.com/labittencourt/CypressExemplo.git
 2. Install project dependencies with: npm i
 
 ## Run the demo:
